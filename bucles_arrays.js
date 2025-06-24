@@ -6,9 +6,7 @@ Modifícalo para que imprima los valores del array.
 console.log("Ejercicio 1")
 const persona = [ "Sofía", 30, "Barcelona", true ];
 
-// for (let i = 0; i < persona.length; i++) {
-//   console.log(persona[i]);
-// }
+
 
 /*------------------
 2)
@@ -17,9 +15,6 @@ Escribe un bucle que imprima todos los valores de "pet".
 console.log("Ejercicio 2");
 const pet = [ "Spot", 2, "dog", "spotted" ];
 
-// for (let i = 0; i < pet.length; i++) {
-//   console.log(pet[i]);
-// }
 
 /*------------------
 3)
@@ -41,9 +36,7 @@ en orden inverso, es decir, empezando en 10 y terminando en 0.
 console.log("Ejercicio 4");
 const nums = [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ];
 
-// for (let i = nums.length - 1; i >= 0; i--) {
-//   console.log(nums[i]);
-// }
+
 
 /*------------------
 5)

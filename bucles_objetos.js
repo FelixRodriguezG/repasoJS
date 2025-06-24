@@ -29,9 +29,7 @@ const pet = {
   color: "brown",
 };
 
-for (let key in pet) {
-  // console.log(pet[key]);
-}
+
 
 /*------------------
 3)
@@ -44,9 +42,7 @@ const car = {
   // agrega tus propiedades aquí
 };
 
-// for (let key in car) {
-//   console.log(car[key]);
-// }
+
 
 /*------------------
 4)
